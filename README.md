@@ -1,0 +1,2 @@
+# Airline-Satisfaction-Intelligence-EDA-on-120k-Passenger-Records
+✈️ End-to-end EDA on 120,000+ airline passenger records uncovering what truly drives satisfaction — from first-time flyer pain points to the surprising dominance of WiFi (r=0.35) over food &amp; comfort. Includes segmented analysis, correlation heatmaps, KDE plots &amp; a 10-slide executive report. | Python • Pandas • Seaborn • Matplotlib
